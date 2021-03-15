@@ -2,5 +2,6 @@
 """ sum of two args """
 
 
-def add(a: float, b: float) -> float:
-    return a + b
+def add(i: float, j: float) -> float:
+    """ sum of two args"""
+    return i + j
